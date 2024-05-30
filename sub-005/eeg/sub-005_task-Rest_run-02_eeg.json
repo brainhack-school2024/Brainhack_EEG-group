@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "InstitutionName": "University of Arizona",
   "InstitutionalDepartmentName": "Psychology",
@@ -16,4 +17,24 @@
   "ECGChannelCount": 0,
   "EMGChannelCount": 0,
   "SoftwareFilters": "n/a"
+=======
+{
+  "InstitutionName": "University of Arizona",
+  "InstitutionalDepartmentName": "Psychology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Neuroscan Synamps2",
+  "EEGGround": "AFz",
+  "EEGReference": "Between Cz & CPz",
+  "EEGChannelCount": 64,
+  "TaskName": "Rest",
+  "MiscChannelCount": 67,
+  "RecordingType": "continuous",
+  "RecordingDuration": 224.16,
+  "SamplingFrequency": 500,
+  "SubjectArtefactDescription": "~~",
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+>>>>>>> openneuro/master
 }
